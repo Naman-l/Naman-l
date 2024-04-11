@@ -1,6 +1,5 @@
 
-Frontend engineer who loves creating beautiful and performant UI-UX. 
-I love listening to music and playing basketball.
+Frontend engineer who loves creating beautiful and performant UI-UX.
 
 I'm currently working <a href='https://www.joveo.com/' target="_blank" >@joveo </a>
 
