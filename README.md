@@ -12,7 +12,7 @@ I'm currently working <a href='https://www.joveo.com/' target="_blank" >@joveo <
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/naman-sharma-dev98/)](https://www.linkedin.com/in/naman-sharma-dev98/)
 
 
-You can checkout my <a href="https://github.com/Naman-l/Naman-l/blob/main/Naman_Sharma_FE_resume.pdf"> Resume </a> here
+You can checkout my <a href="https://github.com/Naman-l/Naman-l/blob/main/NamanSharmaResume.pdf"> Resume </a> here
 
 
 <div>
